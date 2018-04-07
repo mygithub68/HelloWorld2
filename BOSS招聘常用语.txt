@@ -1,0 +1,56 @@
+
+我看了贵公司职位描述，觉得本人符合
+
+
+C:\Program Files (x86)\Java\jdk1.8.0_121
+
+c:
+cd myjava
+javac Hello.java
+
+
+tortoiseSVN
+
+Ant Plugin
+
+
+jenkins 搜索  下载待重启后安装
+
+D:\tomcat\apache-tomcat-8.5.29
+
+http://localhost:80
+
+http://localhost:8080/jenkins/
+
+
+jenkins 解锁jenkins不出现
+jenkins  没有pipeline
+
+http://localhost:9090/ restart
+
+Jenkins standalong模式
+
+电影 厉害了，我的国
+
+
+OWASP Markup Formatter Plugin
+
+
+
+
+.;%JAVA_HOME%\lib\dt.jar;%JAVA_HOME%\lib\tools.jar;%JMETER_HOME%/lib/ext/ApacheJMeter_core.jar;%JMETER_HOME%/lib/jorphan.jar;%JMETER_HOME%/lib/logkit-2.0.jar;D:\software_install\apache-ant-1.10.2\lib
+
+
+C:\Program Files (x86)\Java\jdk1.8.0_121
+
+%ANDROID_HOME%\platform-tools;%SystemRoot%\system32;%SystemRoot%;D:\software_install\apache-jmeter-4.0\bin;D:\software_install\apache-ant-1.10.2\bin;C:\strawberry\c\bin;C:\strawberry\perl\bin;%SystemRoot%\system32\wbem;D:\software_install\maven\apache-maven-3.5.3\bin;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin
+
+
+%ANDROID_HOME%\platform-tools;%SystemRoot%\system32;%SystemRoot%;D:\software_install
+
+
+
+
+
+目前版本控制系统分两类：集中式版本控制（Centralised VCS ）和分布式版本控制（Distributed vcs），集中式版本控制以SVN为代表，而分布式版本控制以Git为代表。
+
